@@ -79,6 +79,34 @@ git clone 仓库地址
 git push
 ```
 
+
+[回到顶部](#readme)
+
+# <a id='3'>github</a>
+
+**1、创建仓库**
+
+![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/5.png "图片Title")
+
+![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/6.png "图片Title")
+
+![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/7.png "图片Title")
+
+**2、创建新文件**
+
+![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/8.png "图片Title")
+
+![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/9.png "图片Title")
+
+![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/10.png "图片Title")
+
+**3、留言**
+
+![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/11.png "图片Title")
+
+![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/12.png "图片Title")
+
+
 **个人站点**
 
 1、新建仓库（仓库名必须为用户名.github.io)
@@ -87,32 +115,7 @@ git push
  
 3、个人站点的地址为https：//用户名.github.io
 
-注：仅支持静态网页
-
-[回到顶部](#readme)
-
-# <a id='3'>github</a>
-1、创建仓库
-
-![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/5.PNG "图片Title")
-
-![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/6.PNG "图片Title")
-
-![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/7.PNG "图片Title")
-
-2、创建新文件
-
-![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/8.PNG "图片Title")
-
-![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/9.PNG "图片Title")
-
-![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/10.PNG "图片Title")
-
-3、留言
-
-![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/11.PNG "图片Title")
-
-![](https://raw.githubusercontent.com/LuxuanJiang/github-/master/12.PNG "图片Title")
+**注**：仅支持静态网页
 
 [回到顶部](#readme)
 
